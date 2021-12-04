@@ -18,8 +18,7 @@ export default function FooterSection() {
                                     hierarchies.
                                 </p>
                                 <p className="copyright-text">
-                                    <span>© 2022 </span>Designed and Developed by
-                                    <a href="https://abdulr.com" rel="nofollow"> Abdulrahman Adil </a>
+                                    <span>© 2022 </span>Designed and Developed by <a href="https://abdulr.com" rel="nofollow"> Abdulrahman Adil </a>
                                 </p>
                             </div>
                         </div>

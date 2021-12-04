@@ -17,13 +17,6 @@ import FooterScripts from './components/footerscripts'
 export default function Home() {
   return (
     <div>
-      <head>
-        <meta charSet="utf-8" />
-        <meta name="description" content="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-
-        <title>Abdulrahman Adil | Business Template</title>
-      </head>
       <Navbar />
       <Sidebar />
       <Overlay />
