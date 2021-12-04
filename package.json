@@ -1,8 +1,8 @@
 {
   "name": "business",
   "version": "0.1.0",
+  "homepage": "https://abdulr.com/business-template",
   "private": true,
-  "proxy": "http://0.0.0.0:3001",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
